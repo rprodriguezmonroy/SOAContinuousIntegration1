@@ -13,7 +13,7 @@
       <oracleUsername>weblogic</oracleUsername>
       <oraclePassword>welcome01</oraclePassword>
       <oracleHome>C:\jdev12.2.1.3</oracleHome>
-      <oracleServerUrl>http://192.168.0.8:8001</oracleServerUrl>
+      <oracleServerUrl>http://localhost:8001</oracleServerUrl>
     </properties>
     
     <profiles>
